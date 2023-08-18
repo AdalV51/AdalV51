@@ -1,44 +1,48 @@
 ### Hi! I'm Adalberto - aka AdalV51 👋
 
-## I'm a Mechatronics Engineer, Crossfit Athlete and currently working as a Software Developer
+## I'm a Python Backend Software Developer on a Mission!
 
-- 👑 My core value is discipline
-- 👨🏻‍💻 I’m currently learning Ionic
-- 🧢 I’m a cap lover, no cap!
-- ☕ 2-3 cups of coffee requiered per day to keep working
-- 📚 Love reading about anything, there're no bad books, only right moments to read them
+As a Mechatronics Engineer turned Software Developer, I'm all about embracing challenges and driving innovation. My journey has been fueled by my core value - discipline. It's the cornerstone of my approach to problem-solving and codecrafting.
 
-### Connect with me:
+Here's a glimpse into my world:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 👨🏻‍💻 Currently, I'm diving into the exciting realm of teaching Python!
+- 🧢 From coding to Crossfit, I'm known to keep my head in the game. You'll often find me rocking a cap - it's my signature style!
+- ☕ Coffee is my co-pilot. With 2-3 cups a day, I'm always geared up to conquer new coding horizons.
+- 📚 I have an insatiable appetite for knowledge. Whether it's tech, literature, or any subject under the sun, I believe there are no bad books, only the perfect moments to read them.
 
-<br />
+Combining my skills as a Mechatronics Engineer with my dedication as a Crossfit athlete, I bring a unique blend of determination and adaptability to my journey as a Software Developer.
 
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg" />][GitHub]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][GitHub]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][GitHub]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][GitHub]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][GitHub]
-[<img align="left" alt="PHP" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png?raw=true" />][GitHub]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][GitHub]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][GitHub]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/postgresql.svg" />][GitHub]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][GitHub]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GitHub]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][GitHub]
-
-<br />
+Let's push boundaries, break limits, and make tech magic happen! Connect with me as we embark on this exciting adventure of innovation and learning. 🚀🔥
 
 ---
 
-[![AdalV51's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdalV51&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Tech Arsenal 🛠️
 
+- 🐍 Advanced Python Programming
+- ⚙️ Backend Maestro (Django, Flask, FastAPI)
+- 📊 Wrangling Relational Databases (PostgreSQL, SQL Server, MySQL)
+- 📒 Exploring Non-Relational Databases (MongoDB)
+- 🌐 Uniting with GraphQL
+- 🔍 Data Wizardry with Numpy, Pandas, Matplotlib, and Seaborn
+- 🐳 Docker Dabbler
+- 📜 Version Control Virtuoso (GIT, SVN)
+- 🌀 Agile Enthusiast (SCRUM)
+- 🐧 Navigating Linux Systems
 
+## The Extra Spice 🌶️
+
+When I'm not coding up a storm, you'll find me exploring the world of:
+
+- 💻 Web Development
+- 🤖 Machine Learning and Data Science
+- 📊 Crafting Data-driven Solutions
+
+Let's connect, collaborate, and make technology work for a better tomorrow. Feel free to reach out and explore my repositories. Together, we can create a greener, smarter, and more efficient world through code! 🌍👨‍💻
+
+---
+
+### Contact Me
 [website]: https://github.com/AdalV51
 [GitHub]: https://github.com/AdalV51
 [instagram]: https://www.instagram.com/adalv51
